@@ -42,4 +42,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ---
 
-Feel free to customize this README file as per your project's specific details and requirements.
