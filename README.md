@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/text-analysis-tool.git
+   git clone https://github.com/BhavyaCh05/text-analysis-tool.git
    cd text-analysis-tool
    ```
 
